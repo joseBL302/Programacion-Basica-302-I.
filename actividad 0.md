@@ -1,4 +1,2 @@
-## Programacion-Basica-302-I.
- ## Jose Adolfo cruz lopez
-## 2009/6/12
- ## Portafolio  de codigos de c++
+<img width="764" height="376" alt="image" src="https://github.com/user-attachments/assets/5c8cb8b1-1610-4b35-9bbc-38f637f64fc9" />
+
