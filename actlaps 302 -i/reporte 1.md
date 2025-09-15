@@ -11,4 +11,3 @@ int main()
   cout<<"GRACIAS POR PROGRAMAR EN CLASE";
   return 0;
 }
-
