@@ -1,4 +1,4 @@
-``` 
+``` cpp
 %%writefile PB302_1.cpp
 //programa pa imprimir mensaje de bienbenida 
 //creado por jose adolfo cruz lopez
