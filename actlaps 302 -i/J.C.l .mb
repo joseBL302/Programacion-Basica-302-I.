@@ -1,4 +1,4 @@
-'''
+```
 %%writefile PB302_1.cpp
 //programa pa imprimir mensaje de bienbenida 
 //creado por jose adolfo cruz lopez
@@ -12,4 +12,4 @@ int main()
   cout<<"GRACIAS POR PROGRAMAR EN CLASE";
   return 0;
 }
-'''
+ ```
